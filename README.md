@@ -1,2 +1,2 @@
 # HTI-helper
-Helper Library
+Helper library for HTI students
