@@ -1,5 +1,5 @@
 /**
- * get_string function designed to simplify getting string from user
+ * get_string function designed to simplify the process of getting string from user
  * made by: GeekNabil
  * arguments: takes no arguments
  * return value: return pointer to allocated memory size
